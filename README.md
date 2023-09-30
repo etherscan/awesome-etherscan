@@ -53,6 +53,7 @@
 * [Blockscan Chat](https://chat.blockscan.com/start) - DM any Ethereum address
 * [Advanced Filter](https://etherscan.io/advanced-filter) - Microscopic capabilities for filtering transactions by specific criteria
 * [Code Reader](https://etherscan.io/code-reader) - Ask GPT anything about a contract
+* [Faucet](https://chat.blockscan.com/index?a=0x035219a183f9e31514e0d7c23a85e3e76d7bf167) - A testnet faucet for Holesky/Sepolia, DM "/fund holesky" for testnet ETH
 
 ## Etherscan Community 
 * [Twitter](https://twitter.com/etherscan) - Official announcements, features and memes
